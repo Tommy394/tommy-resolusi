@@ -3,6 +3,9 @@ Rencana Olahraga:
 - Pemanasan
  * Knee Jump
  * Jumping Jack
+  ^ Jumping Jack Variasi
 - Push up 10x
 - Plank
+  ^ Plank variasi
 - Sit up 10x
+- Pull up

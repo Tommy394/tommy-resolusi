@@ -4,4 +4,5 @@ Rencana Olahraga:
  * Knee Jump
  * Jumping Jack
 - Push up 10x
+- Plank
 - Sit up 10x
